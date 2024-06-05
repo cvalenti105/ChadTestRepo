@@ -1,0 +1,53 @@
+{
+    "adapters": [
+        {
+            "interfaces": [
+                {
+                    "domain_name": "w11e-x64.qa.code42.com",
+                    "ip": {
+                        "address": "172.20.64.27",
+                        "version": "ipv4"
+                    }
+                }
+            ],
+            "mac": "00-50-56-A7-67-E6"
+        }
+    ],
+    "appVersion": "1.9.13.21",
+    "application": "Code42-AAT",
+    "components": [
+        "agent-bootstrapper-win64#2.3.2.39",
+        "lib-sdk-win64#2.3.3.16",
+        "agent-app-application_activity-win64#1.6.22.2",
+        "agent-app-cloud_storage-win64#1.1.9.20",
+        "agent-app-diagnostics-win64#1.0.0.134",
+        "agent-app-health_reporter-win64#1.1.6.6",
+        "agent-app-printer_detection-win64#1.3.1.6",
+        "agent-app-removable_media-win64#1.3.1.10",
+        "agent-app-source_control-win64#1.5.3.4",
+        "agent-app-spydr-win64#1.3.7.18",
+        "agent-app-xfc-win64#1.8.8.103",
+        "agent-sys-message_transmitter-win64#1.1.0.145",
+        "agent-sys-sdce-win64#3.5.17.83",
+        "agent-sys-user_session-win64#1.1.1.32"
+    ],
+    "cpu": "Intel(R) Xeon(R) CPU E5-2698 v3 @ 2.30GHz",
+    "date": "06/05/24 14:13:35 (UTC)",
+    "directories": {
+        "dataDir": "C:/ProgramData/Code42-AAT/",
+        "logDir": "C:/ProgramData/Code42-AAT/logs"
+    },
+    "disk": "127.3 GB (Total), 72.7 GB (Available)",
+    "featurePackVersion": "1.12.1.1",
+    "guid": "1160164239094995900",
+    "hostname": "w11e-x64",
+    "licensedFeatures": "[{\"allocation\":null,\"name\":\"SECURITY_APP_LENSES\"},{\"allocation\":null,\"name\":\"CASES_APP\"},{\"allocation\":null,\"name\":\"FORENSIC_SEARCH\"},{\"allocation\":null,\"name\":\"CONNECTOR_ADVANCED_EXFILTRATION_DETECTION\"},{\"allocation\":null,\"name\":\"HighValueSources\"},{\"allocation\":null,\"name\":\"DEVICE_EXFILTRATED_FILE_COLLECTION\"},{\"allocation\":null,\"name\":\"FILE_VERSION_RETENTION\"},{\"allocation\":null,\"name\":\"CLOUD_STORAGE\"},{\"allocation\":null,\"name\":\"ENDPOINT_HEALTH_DASHBOARD\"},{\"allocation\":365,\"name\":\"CasesDataRetention\"},{\"allocation\":null,\"name\":\"EndpointGitDetection\"},{\"allocation\":null,\"name\":\"ConnectorSalesforce\"},{\"allocation\":null,\"name\":\"CONNECTOR_ONEDRIVE\"},{\"allocation\":null,\"name\":\"FULL_TEXT_FILE_SEARCH\"},{\"allocation\":null,\"name\":\"ActiveHours\"},{\"allocation\":null,\"name\":\"CONNECTOR_BOX\"},{\"allocation\":null,\"name\":\"LDAP_SCRIPTING\"},{\"allocation\":null,\"name\":\"CONNECTOR_GOOGLE_DRIVE\"},{\"allocation\":null,\"name\":\"REST_API\"},{\"allocation\":null,\"name\":\"EMAIL_CONNECTOR_GMAIL\"},{\"allocation\":null,\"name\":\"AAT_ADMIN_CONSOLE\"},{\"allocation\":null,\"name\":\"InstructorResponse\"},{\"allocation\":null,\"name\":\"INCYDR_LOGO\"},{\"allocation\":null,\"name\":\"COMPLIANCE_CONTROLS\"},{\"allocation\":null,\"name\":\"UI_CUSTOMIZATIONS\"},{\"allocation\":180,\"name\":\"SecurityDataRetention\"},{\"allocation\":null,\"name\":\"BACKUP\"},{\"allocation\":null,\"name\":\"SPLUNK_INTEGRATION\"},{\"allocation\":null,\"name\":\"EmailConnectorOffice365NonDlp\"},{\"allocation\":null,\"name\":\"LEGAL_HOLD\"},{\"allocation\":null,\"name\":\"ContentInspection\"},{\"allocation\":null,\"name\":\"USMT_INTEGRATION\"},{\"allocation\":null,\"name\":\"DEVICE_FILE_METADATA_COLLECTION\"}]",
+    "memory": "8.0 GB (Total)",
+    "osInfo": {
+        "architecture": "x86-64",
+        "name": "Windows",
+        "version": "10.0.22631"
+    },
+    "username": "chad.valentine@c42qa.com",
+    "uuid": "9fc8b46c-f192-4cce-a72f-8b1a8d603bf8"
+}
