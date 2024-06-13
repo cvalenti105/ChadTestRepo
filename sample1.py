@@ -1,5 +1,5 @@
 # Python program to find Area of a circle 
-
+# just a python comment
 def findArea(r): 
 	PI = 3.142
 	return PI * (r*r); 

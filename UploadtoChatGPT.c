@@ -1,5 +1,6 @@
 #include <stdio.h>
-// throwing comments in here
+//sample comment
+//hi whitney
 int main()
 {
    char name[50];
@@ -7,7 +8,7 @@ int main()
    printf("Enter number of students: ");
    scanf("%d", &num);
    FILE *fptr;
-   fptr = (fopen("C:\\student.txt", "a"));
+   fptr = (fopen("C:\\student.txt", "w"));
    if(fptr == NULL)
    {
        printf("Error!");
